@@ -1,4 +1,4 @@
-# Analísis de los Penales en la Historia de los Mundiales
+# Análisis de los Penales en la Historia de los Mundiales
 
 ## Objetivo
 
